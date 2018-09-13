@@ -10,5 +10,4 @@ def orangecap(a):
     for i in sum.keys():
         if sum[i] == maximum:
             req = (i,maximum)
-            print(tuple(req))
-            break
+            return (tuple(req))
