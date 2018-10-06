@@ -36,6 +36,6 @@ if __name__ == '__main__':
 	ll.push(5)
 	ll.push(9)
 	ll.push(4)
-	ll.delete(5)
+	ll.delete(4)
 	ll.push(3)
 	ll.printList()
